@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋 I'm Jasmine Kaur
 
-<!--
-**JasmineKaur0123/JasmineKaur0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Learning & Development Coordinator | WordPress Enthusiast | Training Management Specialist
 
-Here are some ideas to get you started:
+🚀 Passionate about empowering teams through training programs and skill development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently exploring the realms of GitHub, LearnDash, and WordPress for effective learning solutions.
+
+📝 Blogger at heart, sharing insights and experiences in the world of training and technology.
+
+🌱 On a mission to bridge the gap between learners and impactful development experiences.
+
+Let's connect and grow together! 🌟
